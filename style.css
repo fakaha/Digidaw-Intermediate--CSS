@@ -19,7 +19,6 @@ body{
     width: 85%;
     margin: 50px auto;
     border: 20px solid  #356387;
-    /* margin-top: 50px; */
     border-radius: 8px;
     padding: 50px 80px;
     display: flex;
@@ -63,7 +62,6 @@ nav{
 
 main{
     display: flex;
-    /* justify-content: space-around; */
 }
 
 article{
