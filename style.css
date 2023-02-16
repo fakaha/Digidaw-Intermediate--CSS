@@ -229,6 +229,10 @@ form .input-button{
 
 @media screen and (max-width: 768px) {
 
+    .container{
+        width: 85%;
+    }
+
     nav{
         flex-wrap: wrap;
     }
