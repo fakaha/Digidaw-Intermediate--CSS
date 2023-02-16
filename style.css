@@ -227,6 +227,26 @@ form .input-button{
     right: -80px;
 }
 
+@media screen and (max-width: 768px) {
+
+    nav{
+        flex-wrap: wrap;
+    }
+
+    main{
+        flex-direction: column;
+        gap: 60px;
+    }
+
+    article{
+        width: 100%;
+    }
+
+    aside{
+        width: 100%;
+    } 
+}
+
 @media screen and (max-width: 1200px){
 
     nav{
